@@ -5,7 +5,7 @@ metadata:
     service: backend-user
   name: backend-user
 spec:
-  replicas: 2
+  replicas: 1
   template:
     metadata:
       labels:
@@ -54,5 +54,3 @@ spec:
               name: env-secret
               key: POSTGRESS_USERNAME
       restartPolicy: Always
-
-

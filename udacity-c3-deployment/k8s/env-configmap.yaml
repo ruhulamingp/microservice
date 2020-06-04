@@ -5,9 +5,9 @@ data:
   AWS_PROFILE: default
   AWS_REGION: us-east-1
   JWT_SECRET: helloworld
-  POSTGRESS_DB: udagramruhuldev
-  POSTGRESS_HOST: udagramruhuldev.cyjvndau7fid.us-east-1.rds.amazonaws.com
-  URL: http://localhost:8100  
+  POSTGRESS_DB: udagramamindev1
+  POSTGRESS_HOST: udagramamindev1.cyjvndau7fid.us-east-1.rds.amazonaws.com
+  URL: http://localhost:31000
 metadata:
   name: env-config
   
